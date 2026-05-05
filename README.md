@@ -51,4 +51,4 @@ This project is licensed under the MIT License — feel free to use and modify.
 
 💡 Disclaimer
 
-Use this script at your own risk. While it is safe for general cleanup, deleting system files improperly can affect system behavior.
+Use this script and app(.exe) at your own risk. While it is safe for general cleanup, deleting system files improperly can affect system behavior.
